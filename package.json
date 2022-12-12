@@ -1,0 +1,22 @@
+{
+  "name": "casinodiscountproducts",
+  "version": "1.0.0",
+  "description": "An informational web application used to display the latest casino products provided by C.D.P",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zyastv/CasinoDiscountProducts.git"
+  },
+  "keywords": [
+    "Casino"
+  ],
+  "author": "Zachary Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zyastv/CasinoDiscountProducts/issues"
+  },
+  "homepage": "https://github.com/Zyastv/CasinoDiscountProducts#readme"
+}
